@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="start_page_text">Chat</string>
+    <string name="start_button_text">START MESSAGING</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+
+    <string name="label_list_message">Dialog</string>
+    <string name="action_share">Share</string>
+    <string name="exit_title">Exit</string>
+
+
+</resources>
